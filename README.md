@@ -46,7 +46,7 @@
 
 <p>
   <a href="https://portfolio-ramiro-lafit.vercel.app/" target="_blank">
-    <img alt="Website" src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img alt="Website" src="https://img.shields.io/badge/%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   
   <a href="https://www.linkedin.com/in/ramiro-lafit-79603a255/" target="_blank">
@@ -57,9 +57,10 @@
 <h2>Contacto</h2>
 
 <p>
-  <a href="mailto:ramirolafit5@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/📩%20ramirolafit5@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://mail.google.com/mail/?view=cm&to=ramirolafit5@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/-ramirolafit5@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
 
 
